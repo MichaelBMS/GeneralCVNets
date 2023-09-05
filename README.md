@@ -1,4 +1,4 @@
-# Common network structures for computer vision tasks, implemented in pytorch
+# Common deep learning architechtures for computer vision tasks, implemented in pytorch
 
 ### 1. UNet
 ### 2. ResUNet
